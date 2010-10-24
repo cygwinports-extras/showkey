@@ -1,5 +1,5 @@
 category: Utils
-requires: cygwin
+requires:
 sdesc: "Keystroke reader for tty-interfacing"
 ldesc: "All this program does is read keystrokes and spit them back at 
 you in a simple, printable form. This is one of these silly little 
